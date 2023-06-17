@@ -1,0 +1,47 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "name": "root",
+      "password": "root",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "name": "roop",
+      "password": "kanta",
+      "role": "staff",
+      "isactive": true,
+      "id": 2
+    }
+  ],
+  "Product": [
+    {
+      "id": 1,
+      "name": "First",
+      "quantity": 10,
+      "price": 12,
+      "description": "First Description",
+      "lastupdated": "10-10-2020",
+      "updatedby": "root"
+    },
+    {
+      "name": "second",
+      "quantity": "2",
+      "price": "2.6",
+      "description": "second item",
+      "lastupdated": "16-07-2023",
+      "updatedby": "roop",
+      "id": 2
+    },
+    {
+      "name": "Third",
+      "quantity": "10",
+      "price": "10",
+      "description": "Third test",
+      "lastupdated": "12-10-2022",
+      "updatedby": "root",
+      "id": 3
+    }
+  ]
+}

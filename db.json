@@ -1,0 +1,29 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "name": "root",
+      "password": "root",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "name": "shishu",
+      "password": "root",
+      "role": "admin",
+      "isactive": true,
+      "id": 2
+    }
+  ],
+  "Product": [
+    {
+      "id": 1,
+      "name": "First",
+      "quantity": 10,
+      "price": 10,
+      "description": "Test First",
+      "lastupdated": "10-12-2022",
+      "updatedby": "root"
+    }
+  ]
+}
